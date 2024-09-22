@@ -1,1 +1,2 @@
-It is a bet game with Rock-paper-scissors.
+It is a bet game with Rock-paper-scissors base on the youtube channel SuperSimpleDev:
+https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqblI1TTJzOU45YVJqVWZaSURfaXNRN3BYVS1vUXxBQ3Jtc0trcnVXNTZHcGlzRjNSa21YMXVtaHk3X0o3ZkNLa0FDUFNiQ1lTZXNzMnFNM1piaGV4MGRPcTNzMkNWSXNhTjJnZWZMYUhMTjlQdklYWUNJdWJGTlJrYXFyTXZMVHhuZ0QyaFVRMmRxSXB5RkZqOTRNcw&q=https%3A%2F%2Fsupersimple.dev
